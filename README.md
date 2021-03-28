@@ -1,1 +1,3 @@
-# doc
+# Documentation
+
+Repository for documentation 
